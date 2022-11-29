@@ -6,7 +6,7 @@
 - A summary of my CodersRank [profile](https://profile.codersrank.io/user/ricardobarroslourenco):
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ricardobarroslourenco&badges=5&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ricardobarroslourenco&width=820"
 />
 
 <!---
