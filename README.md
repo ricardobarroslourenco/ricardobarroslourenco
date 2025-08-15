@@ -5,4 +5,7 @@
 - 📫 You can reach me by social media or e-mail. Look at my URL aggregator, which has all my contacts.
 - A summary of my CodersRank [profile](https://profile.codersrank.io/user/ricardobarroslourenco):
 
-<codersrank-summary username="ricardobarroslourenco"></codersrank-summary>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ricardobarroslourenco&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+  width=550
+/>
